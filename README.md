@@ -1,12 +1,4 @@
 # 42Project-Born2beroot
-<h1 align=center>
-	<b>born2beroot</b>
-</h1>
-
-<h2 align=center>
-	 <i>42cursus' project #4</i>
-</h2>
-
 <p align=center>
 	This project aims to allow the student to create a server powered up on a Virtual Machine. The idea is to use one of two the most well-known Linux-based OS to set up a fully functional and stricted-ruled system. At the end of this project we should be fully comfortable with the concept of Virtualization, as well as dealing with command-line based systems, partitioning memory with LVM, setting up SSH ports, MACs, Firewalls, among many other important concepts. As the name of the project suggests: we come to realize that we are, indeed, born to be root.
 </p>
